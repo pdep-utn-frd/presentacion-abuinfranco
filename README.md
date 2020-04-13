@@ -8,4 +8,4 @@
 
 *Tengo 2 mascostas, una gatita y una perrita*
 
-[img1]: "C:\Users\Usuario!\Desktop\20190704_005232.jpg" "No miren la toalla"
+[img1]: C:\Users\Usuario!\Desktop\20190704_005232.jpg "No miren la toalla"
